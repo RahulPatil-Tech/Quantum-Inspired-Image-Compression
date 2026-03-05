@@ -61,7 +61,11 @@ Example results using a **512 × 512 image matrix**:
 ---
 
 ## 💻 How to Run
-
+###  Quick Setup Guide
+To get your project running, users can simply run this command in their terminal:
+```
+pip install -r requirements.txt
+```
 ```python
 from scipy import linalg
 import numpy as np
